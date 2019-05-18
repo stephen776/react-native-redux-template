@@ -11,6 +11,8 @@
     "react-native": "0.59.8",
     "react-native-paper": "^2.15.2",
     "react-navigation": "^3.11.0",
+    "react-redux": "7.1.0-alpha.4",
+    "redux-starter-kit": "^0.5.1",
     "styled-components": "^4.2.0"
   },
   "devDependencies": {
@@ -35,6 +37,7 @@
     "jest": "^24.8.0",
     "metro-react-native-babel-preset": "^0.54.1",
     "prettier": "^1.17.1",
+    "react-native-testing-library": "^1.7.0",
     "react-test-renderer": "16.8.3",
     "typescript": "^3.4.5"
   },
