@@ -11,11 +11,11 @@ const MenuDrawer: React.FC<DrawerItemsProps> = ({navigation}) => (
       <Drawer.Item
         label="Home Page"
         active
-        onPress={() => navigation.navigate("First")}
+        onPress={() => navigation.navigate("Home")}
       />
       <Drawer.Item
         label="Second Page"
-        onPress={() => navigation.navigate("Second")}
+        onPress={() => navigation.navigate("Settings")}
       />
     </SafeAreaView>
   </ScrollView>
